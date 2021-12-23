@@ -56,7 +56,7 @@ Powerlevel10k 提供了一个配置脚本，运行脚本后只需回答几个简
 p10k configure
 ```
 
-![image-20211223145027277](https://github.com/StinkyPeach/markdown-doc/raw/main/images/install-zsh\image-20211223145027277.png)
+![image-20211223145027277](https://github.com/StinkyPeach/markdown-doc/raw/main/images/install-zsh/image-20211223145027277.png)
 
 ## 安装插件
 
