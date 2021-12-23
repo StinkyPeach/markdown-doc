@@ -20,7 +20,7 @@
    ```
 
 3. 将解压内容移动到git安装的根目录，例如：(`C:\Program Files\Git`)， 将`zsh.exe`或者`zsh-5.8.exe`改为`zsh`
-![](https://github.com/StinkyPeach/markdown-doc/raw/main/image/git-bash-add-zsh/image-20210308140626782.png)
+![](https://github.com/StinkyPeach/markdown-doc/raw/main/images/git-bash-add-zsh/image-20210308140626782.png)
 
 4. 安装 oh-my-zsh
 
@@ -32,7 +32,7 @@
 5. 使用
 
    - 打开一个 git-bash， 输入zsh ，即可启动zsh
-![](https://github.com/StinkyPeach/markdown-doc/raw/main/image/git-bash-add-zsh/image-20210308141013279.png)
+![](https://github.com/StinkyPeach/markdown-doc/raw/main/images/git-bash-add-zsh/image-20210308141013279.png)
 
 ## 安装插件
 
@@ -45,7 +45,7 @@
 ```
 
 默认插件已经有了git，所以这里新增插件，空格隔开
-![](https://github.com/StinkyPeach/markdown-doc/raw/main/image/git-bash-add-zsh/image-20210308141439420.png)
+![](https://github.com/StinkyPeach/markdown-doc/raw/main/images/git-bash-add-zsh/image-20210308141439420.png)
 
 ```shell
 source ~/.zshrc
